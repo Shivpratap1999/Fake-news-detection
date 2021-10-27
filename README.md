@@ -1,1 +1,1 @@
-# Fake-news-detection
+# FakeNewsDetection.github.io
